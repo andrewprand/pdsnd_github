@@ -1,8 +1,8 @@
 ### Date created
-18 May 2022
+18 MAY 2022
 
 ### Project Title
-Github Project with Udacity .
+GITHUB PROJECT WITH UDACITY .
 
 ### Description
 https://github.com/andrewprand/pdsnd_github
