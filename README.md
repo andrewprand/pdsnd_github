@@ -1,8 +1,8 @@
 ### Date created
-18 MAY 2022
+19 May 2022
 
 ### Project Title
-GITHUB PROJECT WITH UDACITY .
+GITHUB PROJECT WITH UDACITY
 
 ### Description
 https://github.com/andrewprand/pdsnd_github
