@@ -51,3 +51,6 @@ bikeshare_new.py
 ### Credits
 https://github.com/udacity/pdsnd_github
 
+### Created by
+[Andy Prand](https://github.com/andrewprand)
+
