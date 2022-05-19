@@ -1,4 +1,4 @@
-### Date created
+#### Date created
 19 May 2022
 
 ### Project Title
@@ -9,21 +9,25 @@ INFORMATION  ABOUT BIKE SHARE USE IN CHICAGO, NEW YORK CITY, AND WASHINGTON
 BY COMPUTING A VARIETY OF DESCRIPTIVE STATISTICS.
 
 1) POPULAR TIMES OF TRAVEL
+
 most common month, most common day of week, most common hour of day.
 2) POPULAR STATIONS AND TRIP
+
 most common start station, most common end station ,most common trip
 3) TRIP DURATION
+
 total travel time average travel time
 4) USER INFO
+
 counts of each user type counts of each gender , earliest, most recent,
 most common year of birth .
 
 https://github.com/andrewprand/pdsnd_github
 
 ### Project data  
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv,
+new_york_city.csv,
+washington.csv .
 
 ### Project script
 bikeshare_new.py
@@ -41,5 +45,11 @@ bikeshare_new.py
 4) Source code editor  NotePad++
 [NotePad++](https://notepad-plus-plus.org/ "Notepad++")
 
+5)Database PostgreSQL 9.x 
+[PostgreSQL] (http://www.postgresql.org)
+
 ### Credits
 https://github.com/udacity/pdsnd_github
+
+### Created by
+[Andy Prand](https://github.com/andrewprand)
